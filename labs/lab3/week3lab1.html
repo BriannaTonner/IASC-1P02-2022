@@ -4,31 +4,34 @@
 
 	<head>
 		<style>
-	p:empty {
-	  width: 100px;
-	  height: 20px;
-	  background: #ff0000;
-
-		#firstHeader {
-  background-color: tomato;
-  color: black;
-  padding: 40px;
-  text-align: center;
+	/* Style the element with the id "myHeader" */
+	#myHeader {
+	  background-color: lightblue;
+	  color: black;
+	  padding: 40px;
+	  text-align: center;
 	}
-	.greenText{
-  background-color: tomato;
-  color: white;
-  padding: 10px;
-}
+
+	/* Style all elements with the class name "city" */
+	.city {
+	  background-color: tomato;
+	  color: white;
+	  padding: 10px;
+	}
 	</style>
-	</head>
-	<body>
 
-		<h1 id="firstHeader"> Super Cool Header </h1>
+	<!-- An element with a unique id -->
+	<h1 id="myHeader">My Cities</h1>
 
-	<p></p>"
-	<p class="greenText"> Super cool writing </p>
-	<p class="greenText"> More super cool things to read </p>
+	<!-- Multiple elements with same class -->
+	<h2 class="city">London</h2>
+	<p>London is the capital of England.</p>
+
+	<h2 class="city">Paris</h2>
+	<p>Paris is the capital of France.</p>
+
+	<h2 class="city">Tokyo</h2>
+	<p>Tokyo is the capital of Japan.</p>
 
 	</body>
 
