@@ -9,3 +9,10 @@ section {
 
   .left-0 {
 	left: 0 !important;
+
+  #woman {
+background-image:url(woman.jpg);
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:left bottom;
+}
