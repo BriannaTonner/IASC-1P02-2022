@@ -1,4 +1,9 @@
 #firstHeadrer{
-  color;red:
+  color:red;
   font-weight: bold;
+}
+
+.greenText{
+  color:Green;
+  font-weight: lighter;
 }
