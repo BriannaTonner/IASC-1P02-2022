@@ -2,3 +2,10 @@ body{
   background-color: blue;
   color: white;
 }
+
+p{
+  padding: 20px;
+  border-style: dashed;
+  border-width: 20px
+  border-color: black
+}
