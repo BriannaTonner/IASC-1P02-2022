@@ -3,5 +3,6 @@ body{
 		color: pink;
 }
 .box{
-	border: black 10px
+	border-style: dashed;
+	border; black 10px;
 }
