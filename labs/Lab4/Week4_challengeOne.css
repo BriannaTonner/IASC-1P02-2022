@@ -3,9 +3,16 @@ body{
 
 }
 
+.coolest{
+  color: red
+}
+
 p{
   padding: 5px;
   border-style: dashed;
   border-width: 5px
   border-color: green;
+}
+img {
+  border: 1px solid #555;
 }
