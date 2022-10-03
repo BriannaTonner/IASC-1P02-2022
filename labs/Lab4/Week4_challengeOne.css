@@ -11,10 +11,10 @@ body{
 }
 
 p{
-  padding: 15px;
+  padding: 20px;
   border-style: dashed;
-  border-width: 5px;
-  border-color: black;
+  border-width: 1px;
+  border-color: green;
 }
 img {
   padding: 10px;
