@@ -12,6 +12,8 @@ body{
 }
 
 p{
+  position: relative;
+  left: 30px;
   padding: 10px;
   border-style: dashed;
   border-width: 2px;
