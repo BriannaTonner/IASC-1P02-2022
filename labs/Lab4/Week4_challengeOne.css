@@ -12,6 +12,7 @@ body{
 }
 
 p{
+  font-size: 10px
   position: relative;
   padding: 10px;
   border-style: dashed;
