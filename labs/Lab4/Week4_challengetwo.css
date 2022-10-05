@@ -1,19 +1,13 @@
 
 .coolest{
-  color: green;
-  text-align: bottom center;
-  bottom:20px;
-  position: absolute;
-  box-sizing: border-box;
-  width: 95%;
-  border: dashed purple 2px;
-  padding: 60px;
-  left: 15px
+   border-style: dashed;
+   padding-top: 100px
+
 }
 
 .swag{
 
-  
+
 }
 
 
