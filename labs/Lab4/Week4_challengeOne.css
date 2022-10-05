@@ -16,9 +16,11 @@ p{
   position: relative;
   padding: 8px;
   border-style: dashed;
+  box-sizing: content-box;
   border-width: 2px;
   border-color: green;
   left: 25px
+
 }
 img {
   padding: 20px;
