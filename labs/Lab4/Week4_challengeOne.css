@@ -13,10 +13,12 @@ body{
 }
 
 p{
+  position: relative;
   box-sizing: border-box;
-  width: 50px;
+  width: 80%;
   border: dashed green 2px;
   padding: 8px;
+  
 
 
 }
