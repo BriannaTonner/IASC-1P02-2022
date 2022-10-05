@@ -14,8 +14,8 @@ body{
 
 p{
   box-sizing: border-box;
-  width: 10px;
-  border: dashed #5B6DCD 10px;
+  width: 50px;
+  border: dashed green 2px;
   padding: 8px;
 
 
