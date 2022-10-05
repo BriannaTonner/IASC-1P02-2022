@@ -2,14 +2,15 @@
 .coolest{
   color: green;
   text-align: bottom center;
+  bottom:20px;
 }
 
 p{
-  position: relative;
+  position: absolute;
   box-sizing: border-box;
   width: 95%;
-  border: dashed green 2px;
-  padding: 8px;
-  left: 25px
+  border: dashed purple 2px;
+  padding: 60px;
+  left: 15px
 
 }
