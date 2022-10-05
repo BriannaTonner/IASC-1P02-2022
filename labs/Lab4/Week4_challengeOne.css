@@ -14,8 +14,8 @@ body{
 
 p{
   position: relative;
-  left: 25px
   padding: 8px;
+  left: 25px
   border-style: dashed;
   border-width: 2px;
   border-color: green;
