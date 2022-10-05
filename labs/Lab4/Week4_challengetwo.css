@@ -1,8 +1,14 @@
 }
 .coolest{
   color: green;
-  padding: 50px;
-  border-style: dashed;
-  border-width: 2px;
-  border-color: purple;
+  text-align: bottom center;
+}
+
+p{
+  position: relative;
+  box-sizing: border-box;
+  width: 100%;
+  border: dashed green 2px;
+  padding: 8px;
+  left: 25px
 }
