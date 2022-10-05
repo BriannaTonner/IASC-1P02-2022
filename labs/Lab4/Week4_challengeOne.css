@@ -4,12 +4,12 @@ body{
   border-color: black;
   border-style: solid;
   font-family: Arial
-  font-size: 1px
 
 }
 
 .coolest{
   color: red;
+  font-size: 1px
 }
 
 p{
