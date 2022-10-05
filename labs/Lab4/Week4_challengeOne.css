@@ -13,8 +13,8 @@ body{
 }
 
 p{
-  left: 25px
   position: relative;
+  left: 25px
   padding: 8px;
   border-style: dashed;
   border-width: 2px;
