@@ -15,10 +15,10 @@ body{
 p{
   position: relative;
   padding: 8px;
-  left: 25px
   border-style: dashed;
   border-width: 2px;
   border-color: green;
+  left: 25px
 }
 img {
   padding: 20px;
