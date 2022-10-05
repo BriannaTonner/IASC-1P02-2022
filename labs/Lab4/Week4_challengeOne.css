@@ -14,12 +14,10 @@ body{
 
 p{
   box-sizing: border-box;
-  position: relative;
+  width: 10px;
+  border: dashed #5B6DCD 10px;
   padding: 8px;
-  border-style: dashed;
-  box-sizing: 5px
-  border-color: green;
-  left: 25px
+
 
 }
 img {
