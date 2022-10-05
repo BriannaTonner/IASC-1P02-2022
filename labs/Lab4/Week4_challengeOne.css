@@ -16,7 +16,7 @@ p{
   position: relative;
   padding: 8px;
   border-style: dashed;
-  box-sizing: content-box;
+  box-sizing: 5px
   border-width: 2px;
   border-color: green;
   left: 25px
