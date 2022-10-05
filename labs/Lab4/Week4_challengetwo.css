@@ -1,8 +1,9 @@
 
 .coolest{
+   boredr-color: purple;
    border-style: dashed;
-   padding-top: 100px
-
+   border-left: 50px
+   padding-top: 100px;
 }
 
 .swag{
