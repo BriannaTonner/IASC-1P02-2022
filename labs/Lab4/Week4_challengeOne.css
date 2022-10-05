@@ -4,6 +4,7 @@ body{
   border-color: black;
   border-style: solid;
   font-family: Arial
+  fount-size: 5px
 
 }
 
@@ -12,7 +13,6 @@ body{
 }
 
 p{
-  font-size: 5px
   position: relative;
   padding: 10px;
   border-style: dashed;
