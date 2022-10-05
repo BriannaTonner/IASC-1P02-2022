@@ -4,7 +4,7 @@ body{
   border-color: black;
   border-style: solid;
   font-family: Arial
-  fount-size: 5px
+  fount-size: 3px
 
 }
 
@@ -14,7 +14,7 @@ body{
 
 p{
   position: relative;
-  padding: 10px;
+  padding: 8px;
   border-style: dashed;
   border-width: 2px;
   border-color: green;
