@@ -3,14 +3,10 @@
   color: green;
   text-align: bottom center;
   bottom:20px;
-}
-
-p{
   position: absolute;
   box-sizing: border-box;
   width: 95%;
   border: dashed purple 2px;
   padding: 60px;
   left: 15px
-
 }
