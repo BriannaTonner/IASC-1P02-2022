@@ -1,16 +1,22 @@
 
-.coolest{
+.black{
    boredr-color: purple;
    border-style: dashed;
    border-left: 50px
    padding-top: 100px;
+   font-size: 15px
 }
 
-.swag{
-  font-size: 30px;
+.green{
+  font-size: 10px;
 
 
 }
 
+
+.yellow
+{
+  font-size: 50px
+}
 
 }
