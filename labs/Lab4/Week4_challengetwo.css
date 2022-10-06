@@ -2,9 +2,11 @@
 .black{
   padding-top: 100px;
    border-style: dashed;
-   border-left: 50px
+   border-left: 50px;
+   border-color: red
 
-   font-size: 15px
+
+
 }
 
 .green{
@@ -20,4 +22,9 @@
 .small
 {
   font-size: 5px
+}
+
+.red
+{
+  
 }
