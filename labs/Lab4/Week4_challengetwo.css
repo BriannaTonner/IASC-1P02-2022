@@ -4,7 +4,7 @@
    border-style: dashed;
    padding-left: 450px;
 
-   border-color: red
+   border-color: purple;
 
 
 
@@ -13,17 +13,18 @@
 .green{
   font-size: 10px;
 padding-left: 450px;
-color: green
+color: green;
 }
 
 .yellow
 {
-  font-size: 50px
+  font-size: 50px;
 }
 
 .small
 {
-  font-size: 5px
+  font-size: 5px;
+  color: yellow;
 }
 
 .red
