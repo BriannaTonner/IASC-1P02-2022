@@ -18,7 +18,7 @@ color: green;
 .yellow
 {
   font-size: 30px;
-  color: yellow;
+  color: orange;
 }
 
 .small
@@ -29,5 +29,6 @@ color: green;
 
 .red
 {
-
+font-size: 25px
+color: red;
 }
