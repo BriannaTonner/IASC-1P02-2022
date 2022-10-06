@@ -2,7 +2,8 @@
 .black{
   padding-top: 100px;
    border-style: dashed;
-   border-left: 50px;
+   padding-left: 50px;
+  
    border-color: red
 
 
@@ -26,5 +27,5 @@
 
 .red
 {
-  
+
 }
